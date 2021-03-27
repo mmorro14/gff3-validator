@@ -1,2 +1,2 @@
-# sp21final
-## Ideas and Planning
+# GFF3 Validator
+## 
